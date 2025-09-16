@@ -7,8 +7,6 @@ Powerful Login &amp; Signup System with Google Sheets &amp; Apps Script
 
 #### request source code here: https://script.google.com/macros/s/AKfycbzjQ9sre41Xh1k_nc57ijk_cV0XkilH1SzDeKMRRONuiqeU7p6iACYC6BRP65zarkPkKA/exec
 
-# Project Fork
-
 [![ORIGINAL SOURCE CODE FROM GWADDONS ](https://img.shields.io/badge/Please_Use-Original_Repo-blue?style=for-the-badge&logo=github)]([https://github.com/author/original-repo](https://script.google.com/macros/s/AKfycbzjQ9sre41Xh1k_nc57ijk_cV0XkilH1SzDeKMRRONuiqeU7p6iACYC6BRP65zarkPkKA/exec))
 
 > ⚠️ **Disclaimer:**  
