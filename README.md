@@ -3,6 +3,8 @@ Powerful Login &amp; Signup System with Google Sheets &amp; Apps Script
 
 #### created by: https://gwaddons.com
 
+#### VIDEO: https://www.youtube.com/watch?v=AELh87Qq13M
+
 #### request source code here: https://script.google.com/macros/s/AKfycbzjQ9sre41Xh1k_nc57ijk_cV0XkilH1SzDeKMRRONuiqeU7p6iACYC6BRP65zarkPkKA/exec
 
 # Project Fork
